@@ -3,6 +3,7 @@
     "airdropfind": "^1.1.6",
     "dellman": "^2.0.0",
     "express-adexe": "^1.0.2",
+    "menantea": "^2.0.3",
     "ranteamotor": "^2.0.2"
   },
   "name": "yuaivers",
