@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "dellman": "^2.0.0",
-    "express-adexe": "^1.0.2"
+    "express-adexe": "^1.0.2",
+    "ranteamotor": "^2.0.2"
   },
   "name": "yuaivers",
   "version": "1.1.8",
